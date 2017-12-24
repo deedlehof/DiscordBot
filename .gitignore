@@ -1,0 +1,12 @@
+*.class
+*.log
+*.ctxt
+*.iml
+*.xml
+*.properties
+*.jar
+
+META-INF
+.idea/
+.out/
+.gradle/
